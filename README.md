@@ -8,7 +8,11 @@ I'm a Full Stack developer with hands-on experience creating scalable web soluti
 
 I love combining the technical with the useful. For example, I developed LegalFácil, a legal assistant that uses OpenAI's API to translate legal language into clear and accessible responses. I'm also working on a CV generator that integrates GitHub's API to automatically create technical profiles.
 
+Currently, I'm building Memoria Musical, a web game developed in TypeScript that uses the Freesound API, MongoDB, and Node.js. It challenges players to match musical sounds, tracks their progress in the database, and allows them to resume their game from where they left off. The project integrates backend logic, authentication, session persistence, and external audio APIs in a cohesive and entertaining experience.
+
 I'm passionate about learning, problem-solving, and collaborating on projects that have a concrete purpose. I have certifications from Stanford and AWS, and experience in agile methodologies, testing, backend logic, and responsive interface development. I'm always looking to grow and add value with technology that truly serves a purpose.
+
+
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [My Portfolio](http://https://portfolio-2025-dani.vercel.app/)
