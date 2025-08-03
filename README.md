@@ -15,7 +15,7 @@ I'm passionate about learning, problem-solving, and collaborating on projects th
 
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [My Portfolio](http://https://portfolio-2025-dani.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-2025-dani.vercel.app/)
 * ✉️  You can contact me at [danielahomobono81@gmail.com](mailto:danielahomobono81@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Innovative and interesting projects
