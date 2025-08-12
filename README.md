@@ -53,6 +53,14 @@ I'm passionate about learning, problem-solving, and collaborating on projects th
 <div width="100%" align="center"><a href="https://github.com/danielaHomobono/Ecommerce-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=Ecommerce-project&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/danielaHomobono/el-lector-voraz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=el-lector-voraz&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/danielaHomobono/iPhone-website" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=iPhone-website&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/danielaHomobono/Portfolio-generator" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=Portfolio-generator&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/danielaHomobono/r3f-vite-starter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=r3f-vite-starter&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/danielaHomobono/Portfolio-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaHomobono&repo=Portfolio-generator&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
 
