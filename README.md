@@ -46,7 +46,7 @@
 const danielasJourney = {
   2023: {
     decision: "Career change to Software Development",
-    firstCert: "React.js & Node.js (Argentina Programa)",
+    firstCert: "React.js & Node.js (Agencia de Aprendizaje Codo a Codo)",
     thought: "Can I really do this as a career changer?",
     answer: "Watch me."
   },
