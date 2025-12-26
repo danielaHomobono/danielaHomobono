@@ -1,365 +1,582 @@
-
-
-# 👋 Hi, I'm Daniela Homobono
-
 <div align="center">
-  
-## 🚀 Full Stack Developer | React • TypeScript • Node.js | AWS & Azure Certified | AI Applications Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniela-homobono)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2025-dani.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielahomobono81@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=danielaHomobono&color=blueviolet&style=for-the-badge)](https://github.com/danielaHomobono)
+# 👋 Daniela Homobono
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "As a mother of three with a full-time career, I discovered my true   ║
+║    passion: software development. Three years later, here I am..."       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🌱 My Unconventional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### The Beginning (2022)
+- 👩‍💼 **Career:** Full-time Account Administrator
+- 👨‍👩‍👧‍👦 **Family:** Mother of three children
+- 🏢 **Life:** Stable, comfortable... but unfulfilled
+- 💭 **Feeling:** Something was missing...
+
+</td>
+<td width="50%">
+
+### The Discovery (2023)
+- 💡 Helped engineer optimize SQL queries at work
+- ⚡ **That moment:** "This is what I want to do"
+- 📚 **Decision:** Career change to software development
+- 🔥 **Challenge:** Balancing family + work + studies
+
+</td>
+</tr>
+</table>
+
+### The Transformation (2023-2025)
 
 ```javascript
-const daniela = {
-  location: "Río Tercero, Córdoba, Argentina 🇦🇷",
-  role: "Full Stack Developer",
-  experience: "3+ years building scalable web applications",
-  currentFocus: "AI-powered applications with AWS & Azure",
-  education: {
-    technical: "Software Development Technician (GPA: 9.35)",
-    university: "Communications Sciences - UNC (5 years completed)",
-    specialization: "Institutional Communication"
+const danielasJourney = {
+  2023: {
+    decision: "Career change to Software Development",
+    firstCert: "React.js & Node.js (Argentina Programa)",
+    thought: "Can I really do this as a career changer?",
+    answer: "Watch me."
   },
-  languages: ["Spanish (Native)", "English (B2 - Upper Intermediate)"],
-  currentlyBuilding: "Tutor IA - Academic assistant with Llama 3.3 70B",
-  openTo: ["Remote opportunities worldwide", "Full Stack roles", "Cloud & AI Development"],
-  uniqueStory: "Started coding at 40 with 3 kids and maintained 9.35 GPA ✨"
+  
+  2024: {
+    gpa: 9.35,
+    projects: ["TATA Clothe E-commerce", "Queen of the Court Android App"],
+    certifications: ["Python Advanced", "English B2"],
+    realization: "I'm not just learning. I'm excelling."
+  },
+  
+  2025: {
+    certifications: [
+      "AWS re/Start Graduate",
+      "AWS Cloud Architecting", 
+      "Microsoft Azure OpenAI",
+      "Microsoft Innovation Challenge Hackathon",
+      "Python - Stanford University"
+    ],
+    aiProjects: ["Helper IA (Azure OpenAI)", "AI Resume Analyzer (Claude)", "Tutor IA (Llama)"],
+    achievement: "From 'Can I?' to 'Watch what I built'",
+    status: "Ready for the world 🌍"
+  }
 };
 ```
 
-### 🎯 My Journey
+---
 
-At 40, balancing three children and a full-time job, I discovered my passion for software development. What started as curiosity became a life-changing journey. In 3 years, I've maintained a **9.35 GPA**, earned **6 official certifications** (AWS, Microsoft, Stanford), and built **10+ production projects** including 3 AI applications.
+## 🎯 What Makes Me Different
 
-**Why this matters:** My background in Communications + technical skills + professional maturity creates a unique combination. I bring business understanding, excellent communication (critical for remote work), and the discipline proven by balancing family, work, and studies while maintaining academic excellence.
+<div align="center">
+
+| Most Developers | Me |
+|----------------|-----|
+| Started coding at 20 | **Started at 40** ✨ |
+| Learning to get a job | **Changed my life to follow passion** 💖 |
+| 2-3 years experience | **2-3 years + 10 years professional maturity** 🎓 |
+| Only technical skills | **Tech + Communications degree + business context** 🗣️ |
+| Might leave in 6 months | **This is my life purpose, not a stepping stone** 🎯 |
+| Good at coding | **Excellent at coding AND communicating (critical for remote)** 🌐 |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💪 The Numbers Tell a Story
 
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
+<div align="center">
 
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</p>
+### Academic Excellence Under Pressure
+```
+┌─────────────────────────────────────────────────────────┐
+│  GPA: 9.35/10                                           │
+│  While: Working full-time + Raising 3 kids             │
+│  Proves: Discipline • Time Management • Commitment     │
+└─────────────────────────────────────────────────────────┘
+```
 
-### Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</p>
+### Learning Velocity
+```
+┌─────────────────────────────────────────────────────────┐
+│  6 Official Certifications in 2 Years                   │
+│  AWS • Microsoft • Stanford • Argentina Programa        │
+│  Proves: Fast Learner • Self-Motivated • Hungry        │
+└─────────────────────────────────────────────────────────┘
+```
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+### Real Impact
+```
+┌─────────────────────────────────────────────────────────┐
+│  10+ Production Projects                                │
+│  Including 3 AI Applications with different LLMs       │
+│  Proves: Not Just Theory • Hands-On Builder           │
+└─────────────────────────────────────────────────────────┘
+```
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-### Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 My Tech Arsenal
 
-### 🤖 Helper IA - HR Service Desk Chatbot
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielaHomobono/Helper-IA)
+<details>
+<summary><b>🎨 Frontend Magic</b> (Click to expand)</summary>
 
-AI-powered chatbot for Human Resources using **Azure OpenAI GPT-4o-mini**
+<br>
 
-**🎯 Key Features:**
-- Intelligent employee assistance with natural language processing
-- Handles password resets, vacation requests, HR policies
-- Automated escalation to human agents when needed
-- Real-time dashboard with metrics
+**What I Build With:**
+```
+React 18+ ━━━━━━━━━━━━━━━━━━━━ ████████████████░ 95%
+TypeScript ━━━━━━━━━━━━━━━━━━ ████████████████░ 90%
+JavaScript ES6+ ━━━━━━━━━━━━━ ████████████████░ 95%
+Three.js (3D) ━━━━━━━━━━━━━━━ ████████████░░░░░ 75%
+TailwindCSS ━━━━━━━━━━━━━━━━━ ████████████████░ 90%
+GSAP Animations ━━━━━━━━━━━━━ ██████████████░░░ 80%
+```
 
-**🛠️ Tech Stack:** `Azure OpenAI` `Azure Functions` `Node.js` `React` `SQL Server` `Serverless`
+**Real Projects:**
+- 📱 iPhone 15 Pro Landing with 3D model (Three.js + React)
+- 🎯 AI Resume Analyzer interface (TypeScript + TailwindCSS)
+- 🌐 Lingua Academy SaaS dashboard (React + Context API)
 
-**📊 Impact:** Automated 70% of routine HR queries | Reduced response time by 60%
+</details>
+
+<details>
+<summary><b>⚙️ Backend Power</b> (Click to expand)</summary>
+
+<br>
+
+**What Powers My Apps:**
+```
+Node.js + Express ━━━━━━━━━━━ ████████████████░ 90%
+MongoDB + Mongoose ━━━━━━━━━━ ████████████████░ 85%
+RESTful APIs ━━━━━━━━━━━━━━━ ████████████████░ 90%
+JWT Authentication ━━━━━━━━━ ███████████████░░ 85%
+SQL (MySQL/SQLite) ━━━━━━━━━ ███████████████░░ 80%
+Python (Django/Flask) ━━━━━━ ██████████░░░░░░░ 60%
+```
+
+**Real Impact:**
+- 🚀 30% improvement in SQL query optimization at Milkaut
+- ⚡ 25% reduction in processing time through automation
+- 💾 35% better NoSQL transaction handling
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b> (Click to expand)</summary>
+
+<br>
+
+**Official Certifications:**
+```
+✅ AWS re/Start Graduate (Dec 2025)
+   → 12-week intensive cloud careers program
+   → EC2, S3, Lambda, RDS, DynamoDB, VPC, IAM
+   
+✅ AWS Cloud Architecting (Dec 2025)
+   → Solutions Architect preparation
+   → Well-Architected Framework (6 pillars)
+   → Design scalable, secure, cost-optimized systems
+   
+✅ AWS Cloud Foundations (2025)
+   → Core AWS services and concepts
+```
+
+**What I Can Do:**
+- Design cloud architectures following AWS best practices
+- Deploy and manage serverless applications
+- Implement security with IAM, Security Groups
+- Optimize costs and performance
+- CI/CD pipelines with Git/GitHub
+
+</details>
+
+<details>
+<summary><b>🤖 AI Integration (My Secret Weapon)</b> (Click to expand)</summary>
+
+<br>
+
+**Official Training:**
+```
+✅ Microsoft Innovation Challenge Hackathon (Nov 2025)
+✅ Azure OpenAI & Semantic Kernel Certification (Nov 2025)
+```
+
+**Real AI Projects:**
+
+**1. Helper IA** - *Azure OpenAI GPT-4o-mini*
+```javascript
+const helperIA = {
+  purpose: "HR Service Desk Chatbot",
+  tech: ["Azure Functions", "Azure OpenAI", "Node.js", "SQL Server"],
+  myRole: "Implemented prompt system (the AI's brain)",
+  impact: "70% automation of routine queries"
+};
+```
+
+**2. AI Resume Analyzer** - *Claude 3 Sonnet API*
+```javascript
+const resumeAnalyzer = {
+  purpose: "Help candidates optimize for ATS",
+  tech: ["Claude API", "React", "TypeScript", "Docker"],
+  features: "8-dimension scoring + personalized feedback",
+  deployed: "https://puter.com/app/jsm-airesume-analizer"
+};
+```
+
+**3. Tutor IA** - *Groq + Llama 3.3 70B*
+```javascript
+const tutorIA = {
+  purpose: "Help my kids (and others) with math & physics",
+  motivation: "Built from personal need, solving real problems",
+  status: "In active development",
+  tech: ["React", "Groq API", "Llama 3.3 70B", "Node.js"]
+};
+```
+
+**Why This Matters:**
+- I don't just have certifications, I BUILD with AI
+- I've worked with 3 different LLMs (Claude, Azure OpenAI, Llama)
+- I understand prompt engineering, not just API calls
+- I know Responsible AI principles
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Development</b> (Click to expand)</summary>
+
+<br>
+
+**Native Android:**
+```
+Kotlin ━━━━━━━━━━━━━━━━━━━━━━ ███████████████░░ 80%
+Android Studio ━━━━━━━━━━━━━━ ███████████████░░ 80%
+SQLite ━━━━━━━━━━━━━━━━━━━━━ ███████████████░░ 85%
+Material Design ━━━━━━━━━━━━━ ████████████████░ 90%
+```
+
+**Real Project:**
+🎾 **Queen of the Court** - Tennis club management app
+- Court reservations, tournaments, member tracking
+- Optimized SQLite queries for mobile performance
+- Intuitive Material Design interface
+
+</details>
 
 ---
 
-### 🎯 AI Resume Analyzer
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://puter.com/app/jsm-airesume-analizer)
+## 🌟 Projects That Define Me
 
-Full-stack application that analyzes CVs with AI and provides **ATS feedback**
+### 🤖 The AI Trinity
 
-**🎯 Key Features:**
-- PDF resume analysis using Claude 3 Sonnet API
-- Personalized ATS scoring across 8 dimensions
-- JWT authentication and file management
-- Interactive data visualization with charts
+<table>
+<tr>
+<td align="center" width="33%">
 
-**🛠️ Tech Stack:** `React` `TypeScript` `Claude API` `Docker` `TailwindCSS`
+**Helper IA**
 
-**📊 Impact:** Helps candidates optimize resumes for Applicant Tracking Systems
+<img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
----
+*HR Chatbot*
 
-### 📱 iPhone 15 Pro Landing 3D
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://iphon-ewebsite.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielaHomobono/iPhone-website)
+Built for hackathon with team
 
-Immersive 3D web experience inspired by Apple's design language
+**My contribution:** Prompt engineering system
 
-**🎯 Key Features:**
-- Interactive 3D model with Three.js & React-Three-Fiber
-- Smooth animations using GSAP
-- Performance optimized: <2s load time
-- Production error monitoring with Sentry
+[View Project →](https://github.com/danielaHomobono/Helper-IA)
 
-**🛠️ Tech Stack:** `React 19` `Three.js` `GSAP` `Vite` `TailwindCSS`
+</td>
+<td align="center" width="33%">
 
-**📊 Achievement:** 95+ Lighthouse Score | <2s load time
+**AI Resume Analyzer**
 
----
+<img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
-### 🌐 Lingua Academy SaaS
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/romarvz/ppiv_consultora_de_idiomas_techmoms)
+*ATS Optimization*
 
-Complete SaaS platform for corporate language consulting firms
+Solo project, fully deployed
 
-**🎯 Key Features:**
-- Multi-tenant architecture with RBAC
-- Real-time dashboard with analytics
-- Intelligent scheduling system
-- Automated invoicing and certificate generation
+**Impact:** Helps job seekers
 
-**🛠️ Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Context API`
+[Try it Live →](https://puter.com/app/jsm-airesume-analizer)
 
-**📊 Impact:** 60% reduction in administrative time | 80% process automation
+</td>
+<td align="center" width="33%">
 
-**👥 Collaboration:** Team project with TechMoms using Agile/Scrum methodologies
+**Tutor IA**
 
----
+<img src="https://img.shields.io/badge/Llama_3.3-000000?style=for-the-badge&logo=meta&logoColor=white"/>
 
-### 🛍️ TATA Clothe E-commerce
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielaHomobono/Ecommerce-project)
+*Academic Helper*
 
-Full-featured e-commerce platform with MERN stack
+Personal project for my kids
 
-**🎯 Key Features:**
-- User authentication and authorization
-- Shopping cart and inventory management
+**Motivation:** Solving family needs
+
+[In Development]
+
+</td>
+</tr>
+</table>
+
+### 🌐 Full Stack Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏢 Lingua Academy SaaS
+*Team Project with [@romarvz](https://github.com/romarvz)*
+
+**What it does:**
+- Manages language consulting firms
+- Multi-tenant architecture
+- Real-time scheduling & invoicing
+
+**My role:**
+- Context API state management
+- Dashboard components
+- Team collaboration using Scrum
+
+**Impact:**
+- 60% less administrative time
+- 80% process automation
+
+**Stack:** React • Node.js • MongoDB • Express
+
+[🚀 Live Demo](https://ppiv-consultora-de-idiomas-techmoms.vercel.app/) | [📂 GitHub](https://github.com/romarvz/ppiv_consultora_de_idiomas_techmoms)
+
+</td>
+<td width="50%">
+
+#### 📱 iPhone 15 Pro Landing 3D
+*Solo Project*
+
+**What makes it special:**
+- Interactive 3D model (Three.js)
+- Smooth GSAP animations
+- Apple-inspired design
+- <2s load time, 95+ Lighthouse
+
+**What I learned:**
+- Advanced 3D web graphics
+- Performance optimization
+- Production monitoring (Sentry)
+
+**Stack:** React 19 • Three.js • GSAP • Vite
+
+[🚀 Live Demo](https://iphon-ewebsite.vercel.app/) | [📂 GitHub](https://github.com/danielaHomobono/iPhone-website)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛍️ TATA Clothe E-commerce
+*Solo Project*
+
+**Full e-commerce platform:**
+- User authentication
+- Shopping cart functionality
+- Inventory management
+- Payment integration
+
+**Achievement:**
+- 35% better transaction handling
 - Optimized NoSQL architecture
 
-**🛠️ Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+**Stack:** MERN (MongoDB • Express • React • Node)
 
-**📊 Impact:** 35% improvement in transaction handling
+[📂 GitHub](https://github.com/danielaHomobono/Ecommerce-project)
+
+</td>
+<td width="50%">
+
+#### 🎾 Queen of the Court
+*Solo Project*
+
+**Native Android app:**
+- Tennis club management
+- Court reservations
+- Tournament tracking
+- Member statistics
+
+**Technical highlight:**
+- Optimized SQLite for mobile
+- Material Design implementation
+- Kotlin best practices
+
+**Stack:** Kotlin • Android Studio • SQLite
+
+[📂 GitHub](https://github.com/danielaHomobono/AndroidClubDeportivo)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎾 Queen of the Court
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielaHomobono/AndroidClubDeportivo)
+## 📈 GitHub Activity
 
-Native Android app for tennis club management
+<div align="center">
 
-**🎯 Key Features:**
-- Court reservations and tournament management
-- Member tracking and statistics
-- Optimized SQLite queries for mobile
+<img src="https://github-readme-stats.vercel.app/api?username=danielaHomobono&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Daniela's%20GitHub%20Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaHomobono&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
 
-**🛠️ Tech Stack:** `Kotlin` `Android Studio` `SQLite` `Material Design`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielaHomobono&theme=radical&hide_border=true" />
 
----
-
-### 🎓 Tutor IA *(In Development)*
-
-AI-powered academic tutor for math and physics students
-
-**🎯 Purpose:** Built to help my children and other students with step-by-step explanations
-
-**🛠️ Tech Stack:** `React` `Groq API` `Llama 3.3 70B` `Node.js`
+</div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🎓 Education & Certifications
 
-### 2025 Certifications
+### 📚 Academic Foundation
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Software Development Technician                                │
+│  IFTS N° 29 | 2023-2025                                        │
+│  GPA: 9.35/10 ⭐                                                │
+│  While: Working full-time + Family of 5                        │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Communications Sciences (5 years completed)                    │
+│  Universidad Nacional de Córdoba                                │
+│  Specialization: Institutional Communication                    │
+│  Why it matters: Premium communication skills for remote work   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🏆 2025 Certifications (The Recent Ones)
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center">
 
-**🏅 Microsoft**
-- Innovation Challenge Hackathon Nov 2025
-- Azure OpenAI & Semantic Kernel
-- AI Agents Development
+**🎯 Microsoft**
+
+Innovation Challenge Hackathon
+(Azure AI, ML, Responsible AI)
+
+Applied Skills: Azure OpenAI
+& Semantic Kernel
 
 </td>
-<td align="center" width="50%">
+<td align="center">
 
 **☁️ Amazon Web Services**
-- AWS re/Start Graduate
-- Cloud Architecting
-- Cloud Foundations
+
+AWS re/Start Graduate
+(Cloud Careers Program)
+
+AWS Cloud Architecting
+(Solutions Architect prep)
+
+AWS Cloud Foundations
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center">
 
-**🎓 Stanford University**
-- Python Programming
-- Code in Place
+**🎓 Stanford + Others**
 
-</td>
-<td align="center" width="50%">
+Python Programming
+(Code in Place)
 
-**📚 Additional**
-- JavaScript Intermedio - CILSA
-- Python Advanced - Codo a Codo
-- English B2 - Pearson
+JavaScript Intermedio
+(CILSA)
+
+Python Advanced
+(Codo a Codo)
+
+English B2
+(Pearson)
 
 </td>
 </tr>
 </table>
 
-### 🎓 Academic Background
-
-- **Software Development Technician** | IFTS N° 29 | **GPA: 9.35** | 2023-2025
-- **Communications Sciences** (5 years) | Universidad Nacional de Córdoba | Institutional Communication
-
 ---
 
-## 📊 Professional Impact
+## 💼 What I Bring to Your Team
 
 <div align="center">
 
-| Metric | Achievement |
-|--------|-------------|
-| 🚀 SQL Optimization | **+30%** efficiency improvement |
-| ⚡ Processing Time | **-25%** reduction through automation |
-| 💾 NoSQL Performance | **+35%** transaction improvement |
-| ⏱️ Admin Time (SaaS) | **-60%** reduction |
-| 🤖 Process Automation | **80%** achieved |
-| 📦 Production Projects | **10+** deployed |
+### Not Just Another Junior Developer
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielaHomobono&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaHomobono&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielaHomobono&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 💼 What I'm Looking For
-
-<div align="center">
-
-### Open to Remote Opportunities Worldwide
-
-**Roles I'm interested in:**
-
-🔹 Full Stack Developer (React/Node.js/TypeScript)  
-🔹 Frontend Developer (React/TypeScript)  
-🔹 Backend Developer (Node.js/Python)  
-🔹 Cloud Developer (AWS/Azure)  
-🔹 AI Application Developer  
-
-**Work Preferences:**
-- ✅ Remote work worldwide
-- ✅ Hybrid positions
-- ✅ Available for relocation
-- ✅ Immediate availability
-
-</div>
-
----
-
-## 🎯 Why I Stand Out
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### 💡 Unique Background
-10+ years professional experience + technical skills + Communications degree = Premium communication in remote teams
-
-</td>
-<td width="33%" align="center">
-
-### 🎓 Academic Excellence
-9.35 GPA while balancing family, full-time work, and studies demonstrates discipline and commitment
+### 🎯 Technical Excellence
+- ✅ 9.35 GPA proves I learn deeply, not superficially
+- ✅ 6 certifications in 2 years shows learning velocity
+- ✅ 10+ production projects proves I ship, not just study
+- ✅ 3 AI apps with different LLMs shows adaptability
+- ✅ AWS & Azure certified means cloud-ready from day one
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🚀 Rapid Learner
-6 certifications in 2 years + 10+ projects shows ability to learn and apply quickly
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI Experience
-3 production AI projects with different LLMs (Claude, Azure OpenAI, Llama) shows hands-on expertise
-
-</td>
-<td width="33%" align="center">
-
-### ☁️ Cloud Certified
-AWS re/Start + Cloud Architecting + Azure OpenAI = Ready for cloud-native development
-
-</td>
-<td width="33%" align="center">
-
-### 💪 Proven Discipline
-Started at 40 with 3 kids. Not "testing" if I like it. This is my passion and life purpose.
+### 💪 Professional Maturity
+- ✅ 10+ years in professional environments
+- ✅ Understands business context (worked in admin)
+- ✅ Excellent communication (Communications degree)
+- ✅ Proven discipline (family + work + 9.35 GPA)
+- ✅ This is my passion, not just a paycheck
 
 </td>
 </tr>
 </table>
+
+### 🌟 The Unique Combination
+
+```
+Technical Skills + Professional Maturity + Genuine Passion
+         ↓                    ↓                   ↓
+   (What I code)      (How I work)        (Why I care)
+         ↓                    ↓                   ↓
+         └────────────────────┴───────────────────┘
+                              │
+                    An Asset to Your Team
+```
+
+---
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+### Open to Remote Opportunities Worldwide 🌍
+
+I'm seeking a role where:
+- ✨ My code makes real impact
+- 🚀 I can grow into cloud architecture & AI specialization
+- 🤝 Team values communication, not just code
+- 🌱 Learning is encouraged, not just expected
+- 💡 Innovation matters
+
+**Ideal roles:**
+Full Stack Developer • Frontend React/TypeScript • Backend Node.js • Cloud Developer (AWS/Azure) • AI Application Developer
+
+**What I offer:**
+Technical excellence • Professional maturity • Genuine passion • Immediate availability
+
+</div>
 
 ---
 
@@ -367,23 +584,30 @@ Started at 40 with 3 kids. Not "testing" if I like it. This is my passion and li
 
 <div align="center">
 
+### I'd love to hear about your team's challenges
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniela-homobono)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2025-dani.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielahomobono81@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielaHomobono)
 
-**📧 danielahomobono81@gmail.com | 📍 Río Tercero, Córdoba, Argentina**
+**📧 danielahomobono81@gmail.com**  
+**📍 Río Tercero, Córdoba, Argentina**  
+**🌐 Open to remote worldwide**
 
-</div>
+<br>
 
----
+```
+"Age is just a number. Passion is timeless. Excellence is a choice."
+```
 
-<div align="center">
+<br>
 
-### 💭 _"At 40, I discovered that it's never too late to pursue your passion. When you find what you love, excellence follows naturally."_
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Started+coding+at+40+with+3+kids;Maintained+9.35+GPA+while+working;6+certifications+in+2+years;10%2B+production+projects;3+AI+applications+built;Not+just+learning%2C+excelling;This+is+my+life+purpose" alt="Typing SVG" />
 
-**⭐ If my projects interest you, please star them! ⭐**
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2B+TypeScript+%2B+Node.js;AWS+%26+Azure+Certified;AI+Applications+Specialist;Open+to+Remote+Opportunities" alt="Typing SVG" />
+**⭐ If my story resonates with you, let's build something amazing together ⭐**
 
 </div>
